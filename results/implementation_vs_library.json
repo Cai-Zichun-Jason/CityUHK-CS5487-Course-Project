@@ -1,0 +1,48 @@
+{
+  "Random Forest": {
+    "Our RF (from scratch)": {
+      "trial_1_acc": 0.9195,
+      "trial_2_acc": 0.9115,
+      "mean_acc": 0.9155,
+      "std_acc": 0.0040000000000000036,
+      "mean_train_time": 16.28850781917572
+    },
+    "sklearn RF": {
+      "trial_1_acc": 0.92,
+      "trial_2_acc": 0.9065,
+      "mean_acc": 0.91325,
+      "std_acc": 0.006750000000000034,
+      "mean_train_time": 0.18968987464904785
+    }
+  },
+  "Gradient Boosting": {
+    "Our GB (from scratch)": {
+      "trial_1_acc": 0.9165,
+      "trial_2_acc": 0.909,
+      "mean_acc": 0.91275,
+      "std_acc": 0.0037499999999999756,
+      "mean_train_time": 277.98525965213776
+    },
+    "sklearn GB": {
+      "trial_1_acc": 0.891,
+      "trial_2_acc": 0.8835,
+      "mean_acc": 0.88725,
+      "std_acc": 0.003750000000000031,
+      "mean_train_time": 32.96526741981506
+    },
+    "XGBoost (library)": {
+      "trial_1_acc": 0.9075,
+      "trial_2_acc": 0.8955,
+      "mean_acc": 0.9015,
+      "std_acc": 0.006000000000000005,
+      "mean_train_time": 1.0555425882339478
+    },
+    "LightGBM (library)": {
+      "trial_1_acc": 0.917,
+      "trial_2_acc": 0.912,
+      "mean_acc": 0.9145000000000001,
+      "std_acc": 0.0025000000000000022,
+      "mean_train_time": 0.6555395126342773
+    }
+  }
+}

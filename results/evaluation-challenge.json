@@ -1,0 +1,93 @@
+{
+  "1NN": {
+    "trial_1_acc": 0.66,
+    "trial_2_acc": 0.7067,
+    "mean_acc": 0.6833,
+    "std_acc": 0.0233,
+    "last_updated": "2026-04-23 22:20:08",
+    "trial_1_f1": 0.6529,
+    "trial_2_f1": 0.6986,
+    "mean_f1": 0.6757,
+    "trial_1_recall": 0.66,
+    "trial_2_recall": 0.7067,
+    "mean_recall": 0.6833
+  },
+  "LR": {
+    "trial_1_acc": 0.7533,
+    "trial_2_acc": 0.7867,
+    "mean_acc": 0.77,
+    "std_acc": 0.0167,
+    "last_updated": "2026-04-23 22:20:08",
+    "trial_1_f1": 0.7489,
+    "trial_2_f1": 0.7799,
+    "mean_f1": 0.7644,
+    "trial_1_recall": 0.7533,
+    "trial_2_recall": 0.7867,
+    "mean_recall": 0.77
+  },
+  "SVM": {
+    "trial_1_acc": 0.8467,
+    "trial_2_acc": 0.8667,
+    "mean_acc": 0.8567,
+    "std_acc": 0.01,
+    "last_updated": "2026-04-23 22:20:09",
+    "trial_1_f1": 0.8454,
+    "trial_2_f1": 0.8665,
+    "mean_f1": 0.856,
+    "trial_1_recall": 0.8467,
+    "trial_2_recall": 0.8667,
+    "mean_recall": 0.8567
+  },
+  "RF": {
+    "trial_1_acc": 0.7733,
+    "trial_2_acc": 0.8133,
+    "mean_acc": 0.7933,
+    "std_acc": 0.02,
+    "last_updated": "2026-04-23 22:20:09",
+    "trial_1_f1": 0.7678,
+    "trial_2_f1": 0.8107,
+    "mean_f1": 0.7892,
+    "trial_1_recall": 0.7733,
+    "trial_2_recall": 0.8133,
+    "mean_recall": 0.7933
+  },
+  "XGB": {
+    "trial_1_acc": 0.7667,
+    "trial_2_acc": 0.8267,
+    "mean_acc": 0.7967,
+    "std_acc": 0.03,
+    "last_updated": "2026-04-23 22:20:10",
+    "trial_1_f1": 0.7663,
+    "trial_2_f1": 0.8257,
+    "mean_f1": 0.796,
+    "trial_1_recall": 0.7667,
+    "trial_2_recall": 0.8267,
+    "mean_recall": 0.7967
+  },
+  "MLP": {
+    "trial_1_acc": 0.7867,
+    "trial_2_acc": 0.8067,
+    "mean_acc": 0.7967,
+    "std_acc": 0.01,
+    "last_updated": "2026-04-23 22:20:10",
+    "trial_1_f1": 0.7812,
+    "trial_2_f1": 0.8081,
+    "mean_f1": 0.7946,
+    "trial_1_recall": 0.7867,
+    "trial_2_recall": 0.8067,
+    "mean_recall": 0.7967
+  },
+  "CNN": {
+    "trial_1_acc": 0.9267,
+    "trial_2_acc": 0.92,
+    "mean_acc": 0.9233,
+    "std_acc": 0.0033,
+    "last_updated": "2026-04-23 22:20:10",
+    "trial_1_f1": 0.9245,
+    "trial_2_f1": 0.9145,
+    "mean_f1": 0.9195,
+    "trial_1_recall": 0.9267,
+    "trial_2_recall": 0.92,
+    "mean_recall": 0.9233
+  }
+}

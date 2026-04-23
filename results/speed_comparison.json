@@ -1,0 +1,46 @@
+{
+  "PCA": {
+    "From-scratch": {
+      "time": 0.0705,
+      "components": 32
+    },
+    "sklearn": {
+      "time": 0.4519,
+      "components": 32
+    },
+    "speedup": 0.2
+  },
+  "Logistic Regression": {
+    "From-scratch": {
+      "acc": 0.881,
+      "time": 0.155
+    },
+    "sklearn": {
+      "acc": 0.8805,
+      "time": 0.016
+    },
+    "speedup": 9.8
+  },
+  "Kernel SVM": {
+    "From-scratch": {
+      "acc": 0.949,
+      "time": 15.493
+    },
+    "sklearn": {
+      "acc": 0.9415,
+      "time": 0.103
+    },
+    "speedup": 150.5
+  },
+  "Random Forest": {
+    "From-scratch": {
+      "acc": 0.9155,
+      "time": 16.289
+    },
+    "sklearn": {
+      "acc": 0.91325,
+      "time": 0.19
+    },
+    "speedup": 85.9
+  }
+}
